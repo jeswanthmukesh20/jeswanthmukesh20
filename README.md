@@ -1,6 +1,8 @@
 ### Hi there, I'm Jeswanth Mukesh 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeswanthmukesh20&count_private=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeswanthmukesh20&langs_count=8&show_icons=true&theme=dracula)
 <!--
 **jeswanthmukesh20/jeswanthmukesh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
