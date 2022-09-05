@@ -9,7 +9,7 @@
 **About Me -**
 
 - 🌱 Intern at [Facetagr](https://facetagr.com/)
-- 🔭 A Second Year Grad
+- 🔭 A Third Year Grad
 - 📍 I’m a self-taught Python programming intern
 - 📚 I’m an Artificial Intelligence and Data Science Student
 
