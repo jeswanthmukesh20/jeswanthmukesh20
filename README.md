@@ -8,9 +8,9 @@
 
 **About Me -**
 
-- 🌱 Intern at [Facetagr](https://facetagr.com/)
-- 🔭 A Third Year Grad
-- 📍 I’m a self-taught Python programming intern
+- 🌱 Jr. Machine Learning Engineer at [Pinaca Technologies](https://pinacalabs.com/)
+- 🔭 A Final Year Grad
+- 📍 I’m a self-taught Machine Learning Engineer
 - 📚 I’m an Artificial Intelligence and Data Science Student
 
 
