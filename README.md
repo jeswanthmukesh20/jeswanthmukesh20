@@ -8,10 +8,9 @@
 
 **About Me -**
 
-- 🌱 Jr. Machine Learning Engineer at [Pinaca Technologies](https://pinacalabs.com/)
-- 🔭 A Final Year Grad
+- 🌱 Member of Technical Staff at [@Zlabs Zoho](https://zoho.com/)
 - 📍 I’m a self-taught Machine Learning Engineer
-- 📚 I’m an Artificial Intelligence and Data Science Student
+- 🔬 Passionate about Applied Research in AI, with a focus on Multimodal Models and Vision-Language Models (VLLMs)
 
 
 🤝🏻 Reach me out!
